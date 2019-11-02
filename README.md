@@ -2,7 +2,7 @@
 
 This is a Spacewar! version for the PDP8. Originally it was written by Evan Suits for the LAB8  and AX08.
 
-This was the only SpaceWar! version which I could find for a PDP8 which doesn't need the EAE (Extended Arithmetic Extension). Many people do not have these boards. And other people simply ran out of expansion slots in their systems...
+This was the only SpaceWar! version which I could find for a PDP8 which doesn't need the EAE (Extended Arithmetic Extension). Many people do not have these EAE boards. And other people simply ran out of expansion slots in their systems...
 
 So I've updated this SpaceWar! version to use it with OmniBus cards.
 
