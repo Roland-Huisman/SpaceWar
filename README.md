@@ -9,9 +9,9 @@ And other people simply ran out of expansion slots in their systems...
 
 So I've updated this SpaceWar! version to use it with OmniBus cards.
 
-Hardware needed: 
+Hardware needed:
 PDP8 (/E /F /M /A) 
-VC8E (M869/M855) 
+VC8E (M869/M855)
 DK8EA (M882) 
 DR8EA (M863) (Optional for the PDP /E /F /M)
 
